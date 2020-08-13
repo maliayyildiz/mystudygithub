@@ -9,7 +9,7 @@ public class MyStudy {
         
 		System.out.println("1st commit from remote repo");
         System.out.println("2nd commit from remote repo");
-        
+        System.out.println("this is  from remote repo to see rejection");
 	}
 
 }
