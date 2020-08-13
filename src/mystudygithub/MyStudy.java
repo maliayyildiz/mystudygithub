@@ -13,7 +13,8 @@ public class MyStudy {
         System.out.println("commit from local repo to see rejection");
 
         System.out.println("this is  from remote repo to see rejection");
-
+        
+        System.out.println("to see new connection");
 	}
 
 }
