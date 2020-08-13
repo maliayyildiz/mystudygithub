@@ -16,7 +16,9 @@ public class MyStudy {
         
         System.out.println("to see new connection");
 		
-		System.out.println("1st commit from remote ayyildiz repo")
+		System.out.println("1st commit from remote ayyildiz repo");
+		
+		System.out.println("1st commit from local ayyildiz repo");
 		
 	}
 
