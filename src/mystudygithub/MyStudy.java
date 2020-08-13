@@ -15,6 +15,9 @@ public class MyStudy {
         System.out.println("this is  from remote repo to see rejection");
         
         System.out.println("to see new connection");
+		
+		System.out.println("1st commit from remote ayyildiz repo")
+		
 	}
 
 }
