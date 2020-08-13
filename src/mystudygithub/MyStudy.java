@@ -7,6 +7,7 @@ public class MyStudy {
         System.out.println("2nd commit from local repo");
         System.out.println("3rd commit from local repo");
         
+		System.out.println("1st commit from remote repo");
         
         
 	}
